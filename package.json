@@ -22,7 +22,7 @@
 		"tailwindcss": "^3.3.1",
 		"typescript": "^4.9.5"
 	},
-	"name": "rexui",
+	"name": "rex-ui",
 	"description": "RexUI is a collection of reusable UI components for React Applications built with typescript tailwind and framer-motion. These components are designed to be flexible, customizable, and easy to use in any project.",
 	"version": "0.1.2",
 	"main": "src/index.ts",
