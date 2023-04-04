@@ -1,47 +1,41 @@
-# TypeScript Next.js example
+# Rex UI
 
-This is a really simple project that shows the usage of Next.js with TypeScript.
+# RexUI
 
-## Deploy your own
+RexUI is a collection of reusable UI components for [insert framework or technology here]. These components are designed to be flexible, customizable, and easy to use in any project.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-typescript)
+## Getting Started
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-typescript&project-name=with-typescript&repository-name=with-typescript)
-
-## How to use it?
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+To get started with RexUI, you can run the following command.
 
 ```bash
-npx create-next-app --example with-typescript with-typescript-app
+npm i rexui
 ```
 
-```bash
-yarn create next-app --example with-typescript with-typescript-app
-```
+## Usage
 
-```bash
-pnpm create next-app --example with-typescript with-typescript-app
-```
+RexUI includes a variety of UI components, including:
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### [List of component names and descriptions]
 
-## Notes
+To use a component, simply [insert instructions on how to import and use components, along with any available props or customization options].
 
-This example shows how to integrate the TypeScript type system into Next.js. Since TypeScript is supported out of the box with Next.js, all we have to do is to install TypeScript.
+## Development
 
-```
-npm install --save-dev typescript
-```
+If you would like to contribute to RexUI, you can follow these steps:
 
-To enable TypeScript's features, we install the type declarations for React and Node.
+[Insert steps for setting up a development environment]
+[Insert steps for running tests or contributing code]
+[Insert steps for submitting a pull request]
 
-```
-npm install --save-dev @types/react @types/react-dom @types/node
-```
+## Credits
 
-When we run `next dev` the next time, Next.js will start looking for any `.ts` or `.tsx` files in our project and builds it. It even automatically creates a `tsconfig.json` file for our project with the recommended settings.
+RexUI was created by [Insert name of creator or team].
 
-Next.js has built-in TypeScript declarations, so we'll get autocompletion for Next.js' modules straight away.
+<!-- ## License
 
-A `type-check` script is also added to `package.json`, which runs TypeScript's `tsc` CLI in `noEmit` mode to run type-checking separately. You can then include this, for example, in your `test` scripts.
+RexUI is released under the [Insert license name], which means you can use, modify, and distribute the library for any purpose, as long as you include the license text in any copies or derivatives. See the LICENSE.md file for more details. -->
+
+## Support
+
+If you have any questions or issues with RexUI, please feel free to [insert instructions for contacting the support team or opening an issue on GitHub]. We're always happy to help!
