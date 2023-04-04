@@ -24,7 +24,7 @@
 	},
 	"name": "rexui",
 	"description": "RexUI is a collection of reusable UI components for React Applications built with typescript tailwind and framer-motion. These components are designed to be flexible, customizable, and easy to use in any project.",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"main": "src/index.ts",
 	"keywords": [
 		"component",
