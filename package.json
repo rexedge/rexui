@@ -1,0 +1,33 @@
+{
+	"private": false,
+	"scripts": {
+		"dev": "next",
+		"build": "next build",
+		"start": "next start",
+		"type-check": "tsc"
+	},
+	"dependencies": {
+		"next": "latest",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	},
+	"devDependencies": {
+		"@types/node": "^12.20.55",
+		"@types/react": "^17.0.55",
+		"@types/react-dom": "^17.0.19",
+		"autoprefixer": "^10.4.14",
+		"postcss": "^8.4.21",
+		"tailwindcss": "^3.3.1",
+		"typescript": "^4.8.3"
+	},
+	"name": "rexui",
+	"description": "This is a really simple project that shows the usage of Next.js with TypeScript.",
+	"version": "1.0.0",
+	"main": "src/index.ts",
+	"keywords": [
+		"component",
+		"library"
+	],
+	"author": "Rex Edge",
+	"license": "ISC"
+}
